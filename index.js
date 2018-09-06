@@ -28,5 +28,5 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
- return parseInt(hard, 10)
+ return parseInt('hard', 10)
 }
